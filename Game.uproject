@@ -7,6 +7,13 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "Dungeon",
+			"Enabled": false
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"C:/Users/Jordan/Documents/MedievalDungeon/MedievalDungeon"
 	]
 }
