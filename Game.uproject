@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
+			"Name": "Dungeon",
+			"Enabled": false
 		},
 		{
-			"Name": "Dungeon",
+			"Name": "ChaosEditor",
 			"Enabled": false
 		}
 	],
